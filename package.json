@@ -1,0 +1,19 @@
+{
+  "name": "JaronBriggs.com",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.4.6"
+  },
+  "description": "Professional portfolio site for JJ Berrett",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "JJ Berrett",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "devicons": "^1.8.0",
+    "express": "^4.14.0"
+  }
+}
